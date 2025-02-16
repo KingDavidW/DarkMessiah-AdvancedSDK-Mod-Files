@@ -3,7 +3,7 @@
 	"description"		    :	"The advanced SDK base for Dark Messiah",
 	"author"			    :	"wiltOS Technologies",
 	"website"			    : 	"www.wiltostech.com",
-	"version"				:	"R1-02.12",
+	"version"				:	"R1-02.16",
 	"launch_parameters"		:	[],
 	"gameinfo_parameters"	:	[],
     "modules"               :   ["server_sdk.dll", "client_sdk.dll"]
